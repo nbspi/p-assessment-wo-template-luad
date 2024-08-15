@@ -1,10 +1,10 @@
 # **Practical Assessment**
 ## **Lou Geh Manufacturing Company**
 Lou Geh manufacturing company produces products. The following product information is stored: product name, product ID and quantity on hand. These products are made up of many components. Each component can be supplied by one or more suppliers. The following component information is kept: component ID, name, description, suppliers who supply them, and products in which they are used. 
-•	A supplier can exist without providing components.
-•	A component does not have to be associated with a supplier.
-•	A component does not have to be associated with a product. Not all components are used in products.
-•	A product cannot exist without components.
+-	A supplier can exist without providing components.
+-	A component does not have to be associated with a supplier.
+-	A component does not have to be associated with a product. Not all components are used in products.
+-	A product cannot exist without components.
 
 ## **Task**
 1. Create a prototype based on the attached problem
